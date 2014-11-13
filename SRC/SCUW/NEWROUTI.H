@@ -1,0 +1,24 @@
+unsigned char	*LeadConRtn();
+unsigned char	*RoreReoRtn();
+unsigned char	*RoreRuRtn();
+unsigned char	*WoreWaanRtn();
+unsigned char	*HorHeebRtn();
+unsigned char	*OrAngRtn();
+unsigned char	*SaraAhRtn();
+unsigned char	*HunAkadRtn();
+unsigned char	*SaraRRtn();
+unsigned char	*SaraUmRtn();
+unsigned char	*SaraIeRtn();
+unsigned char	*SaraERtn();
+unsigned char	*SaraUeRtn();
+unsigned char	*SaraUeeRtn();
+unsigned char	*SaraURtn();
+unsigned char	*SaraUURtn();
+unsigned char	*SaraARtn();
+unsigned char	*SaraAirRtn();
+unsigned char	*SaraORtn();
+unsigned char	*MaiMuanRtn();
+unsigned char	*MaiMalaiRtn();
+unsigned char	*MaiTaiKuuRtn();
+unsigned char	*KaranRtn();
+

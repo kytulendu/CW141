@@ -1,0 +1,59 @@
+#
+# makefile for cufont.exe
+# Written by: Suttipong Kanakakorn
+#             Fri  08-25-1989  21:38:46
+#
+# TCC_OPTION -w = enable all warning
+#
+TCC_OPTION=-DALIGN
+TCC_OPTION2= -w -DALIGN
+
+\cw\cufont.exe: \
+        ..\common\edisp.obj ..\common\hdisp.obj ..\common\adisp.obj \
+        ..\common\grdetect.obj \
+        ..\common\cwgrphc.obj ..\common\cwegrph.obj ..\common\cwagrph.obj \
+        ..\common\ekbd.obj \
+        ..\common\cscrn.obj ..\common\fileutil.obj ..\common\dir.obj \
+        ..\common\sound.obj \
+        getstr.obj tutil1.obj cufsetup.obj kbd.obj file.obj \
+        fed.obj write.obj int.obj getch.obj popup.obj \
+        fontmsg.obj convert.obj
+    tcc -c ..\common\stampdate.c
+    tlink   @scuf.tlr
+
+getstr.obj: getstr.c var.h
+    tcc -c  $(TCC_OPTION2) getstr.c
+
+tutil1.obj: tutil1.c
+    tcc -c  $(TCC_OPTION2) tutil1.c
+
+cufsetup.obj: cufsetup.c var.h
+    tcc -c $(TCC_OPTION2) cufsetup.c
+
+kbd.obj: kbd.c var.h
+    tcc -c $(TCC_OPTION2) kbd.c
+
+file.obj: file.c
+    tcc -c $(TCC_OPTION2) file.c
+
+fed.obj: fed.c
+   tcc -c -v $(TCC_OPTION2) fed.c
+
+write.obj: write.c
+   tcc -c -v $(TCC_OPTION) write.c
+
+int.obj: int.c
+   tcc -c $(TCC_OPTION) int.c
+
+getch.obj: getch.c
+   tcc -c $(TCC_OPTION) getch.c
+
+popup.obj: popup.c
+   tcc -c -v $(TCC_OPTION) popup.c
+
+fontmsg.obj: fontmsg.c
+   tcc -c $(TCC_OPTION) fontmsg.c
+
+convert.obj: convert.c
+   tcc -c $(TCC_OPTION) convert.c
+

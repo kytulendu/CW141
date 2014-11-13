@@ -1,0 +1,233 @@
+                                 ตอนที่  3
+                         
+                      การใช้  Dot  Command
+
+          โปรแกรม  CUWRITER  นอกเหนือจากการมีระบบติดต่อกับผู้ใช้แบบรายการเลือกที่มีคำอธิบายเป็น 
+ภาษาไทยแล้ว   ในกรณีที่ต้องการให้  CUWRITER   ทำงานเป็นอัตโนมัติตามรูปแบบที่กำหนด  ผู้ใช้สามารถทำ 
+ได้ด้วยการใช้ Dot Command
+
+          Dot  Command   เป็นคำสั่งที่ใช้กำหนดการทำงานในลักษณะพิเศษ   บางคำสั่งทำให้เกิดการทำ 
+งานแบบอัตโนมัติ Dot Command มีรูปแบบทั่วไป ด้วยการเขียนจุด  .  นำหน้าคำสั่งนั้น ข้อความแสดงคำสั่งจะ 
+ใช้ตัวอักษรตัวใหญ่หรือเล็กก็ได้  และ  Dot Command  นี้จะถูกบรรจุไว้ในแฟ้มเอกสาร  ดังแสดงรายละเอียด 
+พร้อมตัวอย่างดังต่อไปนี้
+
+          รายการ  Dot Command
+ 
+          1.  .PA   -   ใช้สำหรับการขึ้นหน้าใหม่  (new  PAge)  เป็น  Command  ในการตั้งการ 
+                        หยุดหน้ากระดาษโดยไม่มีเงื่อนไข  (Setting  an unconditional page  
+                        break)   คำสั่งนี้บอกให้รู้ว่าจะต้องหยุดการพิมพ์สำหรับหน้านั้นในบรรทัดต่อไป 
+                        บรรทัดที่ใส่คำสั่ง .PA นั้นไม่ถูกนับเป็นบรรทัดเริ่มต้น  แต่จะนับตั้งแต่บรรทัดถัด 
+                        จากคำสั่งลงไป  (ใช้ในกรณีที่ผู้ใช้ต้องการให้พิมพ์ข้อความในส่วนย่อหน้านั้น  ๆ  
+                        ในกระดาษอีกแผ่นหนึ่ง)
+
+          รูปแบบ      .pa
+          ตัวอย่าง
+                              Test Command  .pa
+          .pa
+          The  only computer form you use are in plain and simple 
+          English.   Because  you design them.  You don't have to  
+          translate  all  your current forms into exotic computer  
+          language  that  nobody  understand.
+          .pa          
+                    You  don't have to translate them at all.  If  
+          you  wish  you can enter those forms into DataStar just  
+          the way they now look on paper.
+                     เมื่อผู้ใช้ดูผลลัพธ์ที่พิมพ์ออกทางกระดาษจะพบว่า  ผู้ใช้จะได้ผลลัพธ์ที่พิมพ์ออกมาถึง 
+                     3 หน้ากระดาษ คือ
+                     หน้าที่ 1 ข้อความ "Test Command .pa"
+                     หน้าที่ 2 ข้อความ " The only computer ...   ไปจนจบย่อหน้า
+                     หน้าที่ 3 ข้อความ " You don't have ... ไปจนจบย่อหน้า
+
+          2.  .PN n  -  ใช้สำหรับการกำหนดเลขหน้าใหม่  (Page Number) จะเป็นเลขหน้าเท่าใด
+                        ก็ได้ โดยโปรแกรมจะเพิ่มเลขหน้าไปเรื่อย ๆ และจำนวนที่ใส่ต้องเป็นจำนวน
+                        ตัวเลขเท่านั้น
+
+          รูปแบบ     .pn n
+          ตัวอย่าง
+          .pn 20          
+                           Test  Command .pn
+          The  only computer form you use are in plain and simple 
+          English.   Because  you design them.  You don't have to  
+          translate  all  your  current forms into exotic computer  
+          language  that  nobody  understand.
+
+                    You  don't have to translate them at all.  If  
+          you  wish  you can enter those forms into DataStar just  
+          the way they now look on paper.
+
+
+                    หมายความว่าเมื่อสั่งพิมพ์ออกทางเครื่องพิมพ์ ไม่ว่าจะพิมพ์ถึงหมายเลขหน้าที่เท่าไร 
+          มาแล้วก็ตาม  เมื่อพบคำสั่ง.pn 20  จะเปลี่ยนหมายเลขเป็น 20 ทันที การใช้คำสั่ง .pn นี้จะ 
+          ต้องสัมพันธ์กับเมนูการพิมพ์  CUPRINT ในการกำหนดตำแหน่งหัวข้อเรื่อง   ส่วนของการกำหนด
+          ตำแหน่งพิมพ์หน้ากระดาษด้วย  กรณีที่ผู้ใช้ไม่ได้กำหนดให้พิมพ์ โปรแกรมก็จะไม่ทำการพิมพ์ให้
+
+
+          3.  .DF filename  -  ใช้สำหรับการกำหนด Data File เพื่อใช้งานร่วมกับ Mailmerge 
+                               โดย Filename จะเป็นชื่อของ Data File
+
+          รูปแบบ          .DF filename
+          ตัวอย่าง
+          .df b:mail.dat
+
+                    สำหรับรายละเอียดจะดูได้จากวิธีการใช้ MailMerge  
+
+          4.  .RV  field-layout  -  ใช้สำหรับการกำหนด  ให้อ่านรายการตัวแปร (Read  
+                                    Variable) จาก  Record ใน  Data  File โดยผู้ 
+                                    ใช้ไม่จำเป็นต้องใช้ทุกตัวในระหว่างการพิมพ์   (สำหรับ 
+                                    MailMerge เท่านั้น)
+
+          รูปแบบ     .RV field-layout
+          ตัวอย่าง    
+          .rv ชื่อ,นามสกุล,ที่อยู่,รายได้
+
+                    สำหรับรายละเอียดวิธีการใช้ดูในการใช้ MailMerge
+
+          5.  .SK     -    ใช้สำหรับการ skip record ถัดไป    โดยปกติคำสั่งนี้จะวางไว้ที่ท้าย 
+                           แฟ้มข้อมูล  แต่อาจจะกำหนดที่ตำแหน่งใด ๆ ถ้าต้องการให้พิมพ์ record  
+                           ถัดไป  ทำให้สามารถควบคุมว่าจะพิมพ์ข้อมูล MailMerge ได้อย่างอิสระ 
+                           เช่น   สามารถพิมพ์รายชื่อของสมาชิกได้หลายคนในจดหมายฉบับเดียวกัน  
+                           และสามารถผ่าน ไม่พิมพ์ชื่อสามาชิกบางคนได้
+
+          รูปแบบ
+          .sk
+
+                    สำหรับตัวอย่างและวิธีการใช้ดูได้ในการใช้ MailMerge
+
+          6.  .CW n  -  ใช้สำหรับการกำหนดขนาดของจำนวนตัวอักษรต่อนิ้ว (Character  Width) 
+                        โดยผู้ใช้สามารถกำหนดได้ตั้งแต่ 1 - 20 ตัวอักษรต่อนิ้ว
+
+          รูปแบบ     .cw n
+          ตัวอย่าง    
+          .cw 12
+          หมายความว่า กำหนดให้พิมพ์จำนวนตัวอักษร 12 ตัวต่อ 1 นิ้ว
+          7.  .PO n  -  เป็นการกำหนดระยะกั้นซ้ายในการพิมพ์   (Set   left   margin)  
+                        โดยกำหนดเป็นจำนวนตัวอักษร   ค่าที่กำหนดจะต้องมีค่ามากกว่า 0 และน้อย 
+                        กว่าระยะกั้นขวา
+
+          รูปแบบ     .PO n
+          ตัวอย่าง    
+          .po 10
+
+          8.  .PR n  -  ใช้สำหรับการกำหนดระยะกั้นขวาในการพิมพ์  (Set right margin) โดย 
+                         ค่าที่กำหนดจะเป็นค่าของจำนวนตัวอักษร  และค่าที่กำหนดจะต้องมากกว่าค่า 
+                         ที่กำหนดในระยะกั้นซ้าย และจะต้องไม่มากกว่าความสามารถของเครื่องพิมพ์ 
+                         ที่ใช้พิมพ์นั้น ๆ
+
+          รูปแบบ     .PR n
+          ตัวอย่าง
+          .pr 80
+
+          9.  .HE text  -  ใช้สำหรับการเพิ่ม Heading (adding page HEading's  .HE) ใน 
+                           กรณีที่ผู้ใช้ต้องการให้มีการพิมพ์หัวเรื่องแบบเดียวกันที่หัวกระดาษในแต่ละ 
+                           หน้า ผู้ใช้สามารถกำหนดหัวข้อได้ตั้งแต่ 1 ตัวอักษร จนถึง 1 บรรทัด
+
+          รูปแบบ     .HE text
+          ตัวอย่าง
+          .he เอกสารประกอบการใช้  CUWRITER
+
+                           กรณีที่ผู้ใช้ได้กำหนดที่จะใช้ Dot Command .he  เมื่อเข้าสู่เมนูการพิมพ์
+                           "CUPRINT"   ผู้ใช้จะต้องไปทำการกำหนดในตำแหน่งหัวข้อเรื่องในส่วน 
+                           ตำแหน่งของหัวกระดาษว่าต้องการให้พิมพ์ ณ ตำแหน่งใดของกระดาษพิมพ์ 
+                           
+
+
+
+
+
+          10.  .FO text -  ใช้สำหรับการเพิ่ม Footing (adding  page  FOoting .FO)  ใน 
+                           กรณีที่ผู้ใช้ต้องการกำหนดข้อความท้ายกระดาษพิมพ์  โดยใช้ Command นี้   
+                           ผู้ใช้สามารถกำหนดข้อความได้ตั้งแต่ 1 ตัวอักษร จนถึง 1 บรรทัด
+
+          รูปแบบ     .FO text
+          ตัวอย่าง
+          .fo จุฬาลงกรณ์มหาวิทยาลัย
+
+                           กรณีที่ผู้ใช้ได้กำหนดที่จะใช้ Dot Command .fo  เมื่อเข้าสู่เมนูการพิมพ์
+                           "CUPRINT"   ผู้ใช้จะต้องไปทำการกำหนดในตำแหน่งหัวข้อเรื่องในส่วน 
+                           ตำแหน่งของท้ายกระดาษว่าต้องการให้พิมพ์ในตำแหน่งใดของกระดาษพิมพ์ 
+
+
+          11.  .PT text -  เป็นการกำหนดให้พิมพ์ข้อความที่ส่วนของหน้ากระดาษ (Get PageTitle)
+
+          รูปแบบ     .pt text
+          ตัวอย่าง
+          .pt ลำดับที่
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            ตัวอย่างการใช้ Dot Command
+
+          สมมติให้สร้างแฟ้มข้อมูลใหม่    โดยใช้ชื่อ   "B:test"   จากนั้นให้พิมพ์ข้อความตามตัวอย่าง  
+     โดยที่ Dot Command ตำแหน่งของการใช้ Dot Command จะต้องเริ่มที่คอลัมภ์ 1 เสมอ
+
+    .he  เอกสารประกอบการใช้ CUWRITER
+    .fo  Chulalongkorn University
+    .po 10
+    .pr 80
+    .cw 12
+    .pt Page
+    .pn 19
+          To  produce  boldface  printing,  press Ctrl PB  before and after  
+    the  desired  words.   If  the  words  are in a title, you can type the  
+    first  Ctrl  PB on the line before the title and the second on the line  
+    after  the title.  If the words are within a paragraph of text, you can  
+    type the control characters immediately before and after the words.
+    .pa
+          To  produce  underlining,  press  Ctrl  PS  before  and after the  
+    desired  words.   If you want continous underlining, make sure you type  
+    underscore   characters   between  words.  Otherwise,  only  the  words  
+    themselves  will  be  underscored and the spaces between the words will  
+    be blank.
+
+          เมื่อพิมพ์เสร็จแล้ว ให้กด ^KS  เพื่อเก็บบันทึกข้อมูลทั้งหมดลงบนแผ่นจานแม่เหล็ก (Diskette)
+     และให้ทำการเข้าสู่เมนูการพิมพ์ CUPRINT โดยการกดปุ่ม  <ESC>  และเลื่อนแถบสว่างไปยังตำแหน่ง
+     "พิมพ์แฟ้มข้อมูล ^KP"  เมื่อเข้าสู่เมนูการพิมพ์แล้วให้ทำการกำหนดตำแหน่งหัวข้อเรื่อง ดังนี้
+
+              •••••••••••••••••••••••••••••••
+              –   ตำแหน่งหัวกระดาษ       กลาง   –
+              –   ตำแหน่งท้ายกระดาษ      กลาง   –
+              –   ตำแหน่งหน้ากระดาษ      ขวา    –
+              •••••••••••••••••••••••••••••••
+          เมื่อสั่งพิมพ์แล้ว ลักษณะของข้อมูลที่ได้จะมีลักษณะดังนี้
+                           เอกสารประกอบการใช้ CUWRITER
+                                                                    Page 19
+
+          To  produce  boldface  printing,  press Ctrl PB  before and after  
+    the  desired  words.   If  the  words  are in a title, you can type the  
+    first  Ctrl  PB on the line before the title and the second on the line  
+    after  the title.  If the words are within a paragraph of text, you can  
+    type the control characters immediately before and after the words.
+
+          
+                            Chulalongkorn University
+
+
+
+
+
+                           เอกสารประกอบการใช้ CUWRITER
+
+                                                                    Page 20
+
+          To  produce  underlining,  press  Ctrl  PS  before  and after the  
+    desired  words.   If you want continous underlining, make sure you type  
+    underscore   characters   between  words.  Otherwise,  only  the  words  
+    themselves  will  be  underscored and the spaces between the words will  
+    be blank.
+
+
+          
+                            Chulalongkorn University

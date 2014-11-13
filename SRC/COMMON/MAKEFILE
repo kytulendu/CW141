@@ -1,0 +1,59 @@
+#
+# makefile for common object file of cuprint.exe and cw.exe
+# By Suttipong Kanakakorn
+# Sun  08-06-1989  16:24:57
+#
+# TCC_OPTION -w = enable all warning
+#
+#
+TCC_OPTION=-w -DCW
+
+project: edisp.obj hdisp.obj adisp.obj \
+         grdetect.obj cwgrphc.obj cwegrph.obj cwagrph.obj \
+         ekbd.obj cscrn.obj fileutil.obj dir.obj sound.obj cusong.obj
+    cd ..\scuw
+    make
+    cd ..\scup
+    make
+    cd ..\scuf
+    make
+
+edisp.obj: edisp.asm cwfntm.asm
+    tasm /mx edisp
+
+hdisp.obj: hdisp.asm cwfnthm.asm
+    tasm /mx hdisp
+
+adisp.obj: adisp.asm cwfntam.asm
+     tasm /mx adisp
+
+grdetect.obj: grdetect.c grdetect.h
+    tcc -c  $(TCC_OPTION) grdetect.c
+
+cwgrphc.obj: cwgrphc.c cwgrphc.h grdetect.h
+    tcc -c  $(TCC_OPTION) cwgrphc.c
+
+cwegrph.obj: cwegrph.c cwgrphc.h
+    tcc -c $(TCC_OPTION) cwegrph.c
+
+cwagrph.obj: cwagrph.c cwgrphc.h
+    tcc -c $(TCC_OPTION) cwagrph.c
+
+ekbd.obj: ekbd.c
+    tcc -c $(TCC_OPTION) ekbd.c
+
+cscrn.obj: cscrn.c
+    tcc -c $(TCC_OPTION) cscrn.c
+
+fileutil.obj: fileutil.c
+    tcc -c $(TCC_OPTION) fileutil.c
+
+dir.obj: dir.c
+    tcc -c $(TCC_OPTION) dir.c
+
+sound.obj: sound.c
+    tcc -c -v $(TCC_OPTION) sound.c
+
+cusong.obj: cusong.c
+    tcc -c -v $(TCC_OPTION) cusong.c
+

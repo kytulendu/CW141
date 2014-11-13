@@ -1,0 +1,25 @@
+                             CUWRITER
+
+
+     CUWRITER† is† Chulalongkorn† University's† Thai-English† word ç
+processing† package.† It† was† designed to operate in graphic mode ç
+and† can† be† run† by† any IBM PC compatible microcomputer without ç
+hardware† modification.† It can read both KU and TSO codes used by ç
+Thai-English† word† processors.† One† of the prominent features of ç
+CUWRITER† is "What you see is what you get" characteristics. Users ç
+see† actual† character† forms† on† the† screen,† including italic, ç
+boldface, single and double under-score and Enlarged fonts.
+Mail-merge is also included in the package.
+
+     CUWRITER has 3 major programs:
+           CUWORD is word processing program
+           CUPRINT is to print text file
+           CUFONT is allowed users to create fonts
+
+     Minimum configuration of micro computer
+     - 256 KB RAM
+     - 2 disk drives
+     - 9 or 24 pin dot matrix printer
+
+     The user† interface† to† CUWRITER† consists of pull down menu and ç
+pop† up† dialog boxes.† All directions and messages display in Thai. 

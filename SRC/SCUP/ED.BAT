@@ -1,0 +1,2 @@
+@ECHO OFF
+\CU\CW %1

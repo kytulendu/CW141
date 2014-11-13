@@ -1,0 +1,11 @@
+/x/n/d/c \tc\lib\c0l +
+..\common\edisp ..\common\hdisp ..\common\adisp ..\common\grdetect +
+..\common\cwgrphc ..\common\cwegrph ..\common\cwagrph ..\common\ekbd +
+..\common\cscrn ..\common\fileutil ..\common\dir + ..\common\sound +
+kbd getstr tutil1 cupsetup pmenu smenu prtutil +
+printing prt prtt prtg +
+pic dot cpi global prncntrl +
+error preproc 24pins attr cpthai +
+prtbuf24 stampdat +
+,\cw\cuprint,\cw\cuprint,\tc\lib\cl.lib
+

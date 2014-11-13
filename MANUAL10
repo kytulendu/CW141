@@ -1,0 +1,111 @@
+                                  ³Ê·µÚà 5
+                      ¡ÎÁÑ¡áÔ¢ÁØ¹Ñ¸¸³ÝÄÊÝ¡ÆÁ
+
+          CUWRITER   ÀÊ¿ÓÈáºØáÓ¨áÑ¡áÔ¢ÁØ¹Ñ¸¸³ÝÄÊÝ¡ÆÁ³àÎ¥   Õ  ³Î¿³áÊ¥¡ÎÁÈÁÜÊÑ¿áÑ³àÐ¹ÃÚàÀ·³ÝÄÊÝ¡ÆÁ
+¸Î¥³ÝÄÐ¹ß·³ÝÄÊÜà·  Ð¨à·  ºØáÓ¨áÔ¿à¿Ú£ÄÎ¿¦ÏÐ¹ß·³áÊ¥Ó¨áÐ£ÁÜàÊ¥È¿ÎÀ²·³ÁÚ Ñ³à¿Ú£ÄÎ¿³áÊ¥¡ÎÁÓ¨á³ÝÄÊÝ¡ÆÁÊÜà· Õ µÚà
+Ô¿à¿Ú¹ÁÎ¡­Ó· CUWRITER ¡ßÇÎ¿ÎÁ´µÏÔ²á²áÄÀ¡ÎÁÐÁÚÀ¡Ó¨áÒ¹ÁÑ¡Á¿ CUFONT
+          ÁØ¹Ñ¸¸³ÝÄÊÝ¡ÆÁ³àÎ¥   Õ  µÚà¦ÏÐ¹ß·³áÊ¥Ó¨á¹ÁÌ¡Ê¸¡ÎÁµÏ¥Î·¢Ê¥  CUWRITER  ¿ÚµÝá¥ÁØ¹Ñ¸¸³ÝÄ
+ÊÝ¡ÆÁµÚà¦ÌÑÇ²¥¸·¦Ê¾Î¼    ÑÃÌ¡ÎÁ¼Ù¿¼äµÎ¥Ð£ÁÜàÊ¥¼Ù¿¼ä   ©Ûà¥ºØáÓ¨á¦ÌÇÝ¥Ð¡³Ô²á¦Î¡¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚàÃ¥µáÎÀ²áÄÀ
+.PRN ÑÃÌ .P24  ¦ÌÐ¹ß·Ñ½á¿¢áÊ¿ØÃ³ÝÄÊÝ¡ÆÁµÚàÓ¨áÇÏÈÁÝ¸¡ÎÁ¼Ù¿¼ä¸·Ð£ÁÜàÊ¥¼Ù¿¼äÑ¸¸  9 PINS ÑÃÌ 24 PINS 
+³Î¿ÃÏ²Ý¸ ÇàÄ·Ñ½á¿¢áÊ¿ØÃµÚàÃ¥µáÎÀ²áÄÀ .FON ¦ÌÓ¨áÇÏÈÁÝ¸¡ÎÁÑÇ²¥ÁØ¹Ñ¸¸³ÝÄÊÝ¡ÆÁ¸·¦Ê¾Î¼
+          ²Ý¥·Ýá·Ð¿ÜàÊºØáÓ¨á³áÊ¥¡ÎÁÑ¡áÔ¢ÁØ¹Ñ¸¸³ÝÄÊÝ¡ÆÁ   ¦Ì³áÊ¥ÐÁÚÀ¡Ñ½á¿¢áÊ¿ØÃ³ÝÄÊÝ¡ÆÁµÝá¥È¿²¿ÎÑ¡áÔ¢²áÄÀ
+¡ÎÁÓ¨áÒ¹ÁÑ¡Á¿ CUFONT ²Ý¥¿ÚÁÎÀÃÌÐÊÚÀ²³àÊÔ¹·Úá
+
+ÄÙ¶ÚÓ¨á¥Î·
+
+ set  path  Ô¹ÀÝ¥µÚà©Ûà¥Ò¹ÁÑ¡Á¿  CUFONT.EXE  ÊÀØà Ò²À¹¡³ÙÊÀØàµÚà Drive B (Set path b:)
+ ÑÃÌ³áÊ¥ÊÀØàÐÁÚÀ¡ CUFONT ¦Î¡ Current Directory (A:CUFOUNT)
+     ÐÁÙà¿³á·ÐÁÚÀ¡Ò¹ÁÑ¡Á¿µÚà prompt ÑÃáÄÃÊ¥ÇÝ¡£ÁØà¦Ì¹ÁÎ¡­Ð¿·Ø¸·¦Ê
+€…………………………………………………………………………………………………
+„Main Menu                            „
+†…………………………………………………………………………………………………‡
+„ 1.load screen font                  „
+„ 2.load italic screen font           „
+„ 3.load 9 pins font                  „
+„ 4.load italic 9 pins font           „
+„ 5.load 24 pins font                 „
+„ 6.load italic 24 pins font          „
+„ 7.load superscript&subscript font   „
+„ 8.load italic super&subscript font  „
+„ 9.load .FED font                    „
+„10.save font                         „
+„11.continue working                  „
+„12.exit                              „
+‚…………………………………………………………………………………………………ƒ
+     ÁÎÀ¡ÎÁµÚà  ‘  ¦ÌÐ¹ß·¡ÎÁ load font ¦Ê¾Î¼³ÝÄ¹Á¡³ÙµÚàÓ¨áÓ·¡ÎÁÑÇ²¥ºÃ¢Ê¥Ò¹ÁÑ¡Á¿ CUWRITER 
+                 (normal.fon)
+     ÁÎÀ¡ÎÁµÚà ’   ¦ÌÐ¹ß·¡ÎÁ load font ¦Ê¾Î¼³ÝÄÐÊ· (italic.fon)
+     ÁÎÀ¡ÎÁµÚà “   ¦ÌÐ¹ß·¡ÎÁ load font Ð£ÁÜàÊ¥¼Ù¿¼ä¢·Î² 9 pins ³ÝÄ¹Á¡³Ù (normal.prn)
+     ÁÎÀ¡ÎÁµÚà ”   ¦ÌÐ¹ß·¡ÎÁ load font Ð£ÁÜàÊ¥¼Ù¿¼ä¢·Î² 9 pins ³ÝÄÐÊ· (italic.prn)
+     ÁÎÀ¡ÎÁµÚà •   ¦ÌÐ¹ß·¡ÎÁ load font Ð£ÁÚàÊ¥¼Ù¿¼ä¢·Î² 24 pins ³ÝÄ¹Á¡³Ù (normal.p24)
+     ÁÎÀ¡ÎÁµÚà –   ¦ÌÐ¹ß·¡ÎÁ load font Ð£ÁÜàÊ¥¼Ù¿¼ä¢·Î² 24 pins ³ÝÄÐÊ· (italic.p24)
+     ÁÎÀ¡ÎÁµÚà  —  ¦ÌÐ¹ß·¡ÎÁ  load superscript ÑÃÌ subscript ¢Ê¥Ð£ÁÜàÊ¥¼Ù¿¼äÑ¸¸ 24 pins 
+                 (normals.p24)
+     ÁÎÀ¡ÎÁµÚà  ˜  ¦ÌÐ¹ß·¡ÎÁ  load font ³ÝÄÐÊ·Ñ¸¸ superscript ÑÃÌ subscript ¢Ê¥Ð£ÁÜàÊ¥
+                 ¼Ù¿¼äÑ¸¸ 24 pins (italics.p24)
+     ÁÎÀ¡ÎÁµÚà  ™  ¦ÌÐ¹ß·¡ÎÁ  load  font file ©Ûà¥Ð¹ß· format ¢Ê¥Ò¹ÁÑ¡Á¿·Úá©Ûà¥ÁÎÀÃÌÐÊÚÀ²ÊÀØà
+                 µáÎÀ£Øà¿ÜÊ·Úá
+     ÁÎÀ¡ÎÁµÚà ‘ Ð¹ß·¡ÎÁ save file  µÚàÔ²áÁÝ¸¡ÎÁÑ¡áÔ¢ÑÃáÄ
+     ÁÎÀ¡ÎÁµÚà ‘‘ Ð¹ß·¡ÎÁÑ¡áÔ¢ font µÚàÔ²á load Ð¢áÎ¿Î©Ûà¥ÁÎÀÃÌÐÊÚÀ²Ó·¡ÎÁÑ¡áÔ¢ font ¿Ú²Ý¥·Úá
+
+     ¢Ýá·ÑÁ¡¦ÌÐ¹ß·¡ÎÁÐÃÜÊ¡³ÝÄÊÝ¡ÆÁµÚà³áÊ¥¡ÎÁÑ¡áÔ¢   Ò²ÀÐÃÜÊ¡¦Î¡¸·¦Ê  Ò²À¡ÎÁÐÃÜàÊ·¡ÁÊ¸ÇÚàÐÈÃÚàÀ¿Ô¹
+¸·³ÝÄÊÝ¡ÆÁµÚà³áÊ¥¡ÎÁÑÃáÄ¡²  <Enter>  Ñ³à´áÎÔ¿à³áÊ¥¡ÎÁÑ¡áÔ¢ÑÃáÄÓÈá¡²¹×à¿  <ESC>  Ð¼ÜàÊ¡ÃÝ¸Ô¹ÀÝ¥ menu 
+ÈÃÝ¡  Ð¼ÜàÊ  save  font ÈÁÜÊ load file ÓÈ¿à ÈÁÜÊ ÊÊ¡¦Î¡Ò¹ÁÑ¡Á¿     Ó·ÁÌÈÄàÎ¥µÚàµÏ¡ÎÁ edit 
+font   ÇÎ¿ÎÁ´¡² '?' Ð¼ÜàÊ¢Ê£ÄÎ¿¨àÄÀÐÈÃÜÊÔ²á Ò²À¦Ì¿Ú£ÏÊ¶Ù¸ÎÀÇÝá· Õ ¹ÁÎ¡¬¸·¦Ê¾Î¼ ÑÃÌÐ¿ÜàÊ¡²¹×à¿
+ÊÌÔÁ¡ß³Î¿ £ÏÊ¶Ù¸ÎÀ¦ÌÈÎÀÔ¹ ¦Î¡·Ýá·¡ßÐÁÙà¿µÏ¡ÎÁ edit font Ô²á
+          function µÚàÓ¨áÔ²áÓ·ÁÌÈÄàÎ¥ edit font Ô²áÑ¡à
+          -  £ÚÀäÃØ¡ÅÁ  Ð¼ÜàÊÐÃÜàÊ· cursor Ô¹ÀÝ¥³ÏÑÈ·à¥³àÎ¥ Õ ¸·¦Ê  ÇÎ¿ÎÁ´¡²¹×à¿ Home, PgUp, 
+End , PgDn Ð¼ÜàÊÐÃÜàÊ· cursor Ô¹Ó·Ñ·ÄµÑÀ¥Ô²á²áÄÀ
+          -  ¹×à¿ insert ( ¹×à¿ 0 µÚà keypad ) Ð¿ÜàÊ¡²¸·¦×²µÚàÄàÎ¥ÊÀØà ¦ÌµÏÈ·áÎµÚà plot ¦×²Ã¥Ô¹ Ñ³à
+´áÎ¡²¸·¦×²µÚà plot ÑÃáÄ¦ÌÃ¸¦×²Ð²Ù¿ÊÊ¡
+          -  ¹×à¿  I  Ð¼ÜàÊ invert ³ÝÄÊÝ¡ÆÁ Ð¿ÜàÊ¡²¹×à¿·Úá ¦×²µ×¡¦×²¢Ê¥³ÝÄÊÝ¡ÆÁ·Ýá·µÚà plot ÑÃáÄ¦Ì´Ø¡Ã¸ 
+ÇàÄ·¦×²µÚàÄàÎ¥ÊÀØà¦Ì´Ø¡ plot Ã¥Ô¹
+          -  ¹×à¿ M Ð¼ÜàÊ Mirror ³ÝÄÊÝ¡ÆÁ Ð¿ÜàÊ¡²¹×à¿·Úá ³ÝÄÊÝ¡ÆÁ ¦Ì´Ø¡¡ÃÝ¸¢áÎ¥ÐÈ¿ÜÊ·¡Ý¸¿Ê¥¦Î¡¡ÁÌ¦¡
+          -  ¹×à¿ Esc Ð¼ÜàÊÐÃÙ¡¡ÎÁ edit ³ÝÄÊÝ¡ÆÁ·Ýá·
+          -  ¹×à¿  U Ð¼ÜàÊ undo £ÜÊ¦ÌÀ¡ÐÃÙ¡¡ÎÁÐ¹ÃÚàÀ·Ñ¹Ã¥µÚàÐ¡Ù²¢Ûá·Ó·¡ÎÁ edit £ÁÝá¥·Ýá· Ó¨áÐ¿ÜàÊÐÁÎ 
+edit font ÑÃáÄÐ¡Ù²¢áÊºÙ²¼ÃÎ²ÑÃáÄÔ¿à³áÊ¥¡ÎÁ
+          -  ¹×à¿ R Ð¼ÜàÊ Row insert ¦ÌµÏ¡ÎÁÑµÁ¡Ñ´ÄÄàÎ¥Ó·Ñ·Ä·Ê· Ó·Ñ´ÄµÚà cursor ÐÁÎÊÀØà 1 
+Ñ´Ä
+          -  ¹×à¿ E Ð¼ÜàÊ Erase row £ÜÊ µÏ¡ÎÁÃ¸Ñ´ÄÓ·Ñ·Ä·Ê· Ó·Ñ´ÄµÚà cursor ÐÁÎÊÀØà 1 Ñ´Ä
+          -  ¹×à¿ C Ð¼ÜàÊ Column insert Ð¼ÜàÊµÏ¡ÎÁÑµÁ¡Ñ´ÄÓ·Ñ·Ä³Ýá¥ Ó·Ñ´ÄµÚà cursor ÐÁÎÊÀØà 1 
+Ñ´Ä
+          -  ¹×à¿ D Ð¼ÜàÊ Delete column Ð¼ÜàÊµÏ¡ÎÁÃ¸Ñ´ÄÓ·Ñ·Ä³Ýá¥Ó·Ñ´ÄµÚà cursor ÐÁÎÊÀØà 1 Ñ´Ä
+          
+          Ó·ÁÌÈÄàÎ¥¡ÎÁ edit ¦Ì¿Ú mode ¢Ê¥¡ÎÁ edit ¹ÁÎ¡¬µÚà¿×¿¢ÄÎÃàÎ¥²Ý¥·Úá
+               MOVE MODE Ó· mode ·Úá cursor ¦ÌµÏ¡ÎÁÐÃÜàÊ·¢áÎ¿Ô¹¸·¦×²³àÎ¥Õ
+               DRAW MODE Ó· mode ·Úá cursor ¦ÌµÏ¡ÎÁÃÎ¡ÐÇá·Ô¹¸·µ×¡¦×²
+               ERASE MODE Ó· mode ·Úá cursor ¦ÌµÏ¡ÎÁÃ¸¦×²µ×¡¦×²µÚà cursor ÐÃÜàÊ·ºàÎ·
+
+          ©Ûà¥¦Ì¿Ú³ÝÄ¸Ê¡ mode ¢Ê¥¡ÎÁ edit ÐÈÃàÎ·ÚáÊÀØà¸·¦Ê³ÃÊ²ÐÄÃÎ
+     ÁÎÀ¡ÎÁµÚà ‘’ ¦ÌÊÊ¡¦Î¡Ò¹ÁÑ¡Á¿ ¡ÃÝ¸ÇØàÁÌ¸¸¹¬Ù¸Ý³Ù¥Î·
+
+FILE FORMAT
+     ¨ÜàÊ¢Ê¥ font file Ò²À¹¡³Ù¦Ì¿Ú·Î¿Ç¡×ÃÐ¹ß· .FED ¿ÚÃÝ¡Æ±Ì¢Ê¥Ñ½á¿²Ý¥·Úá
+     byte           content
+     1-23      FONT EDITOR Version 1.0
+     24        ^Z
+     25        ¦Ï·Ä· dots ¢Ê¥ font Ó·Ñ·Ä·Ê·
+     26        ¦Ï·Ä· dots ¢Ê¥ font Ó·Ñ·Ä³Ýá¥
+     27...     Ð¡ß¸ font Ò²ÀÇÎ¿ÎÁ´£Ï·Ä·¢·Î²¢Ê¥ font Ô²á¦Î¡ÇØ³Á
+                          _ceil(X,8)*Y*256
+                    Ð¿ÜàÊ X,Y Ð¹ß·¦Ï·Ä· dots Ó·Ñ·Ä·Ê· ÑÃÌÑ·Ä³Ýá¥³Î¿ÃÏ²Ý¸ Ò²À _ceil Ð¹ß·
+                    function µÚà return £àÎÐ¹ß· integer µÚà¿Î¡¡ÄàÎÈÁÜÊÐµàÎ¡Ý¸ parameter ³ÝÄ
+                    ÑÁ¡ ÈÎÁ²áÄÀ parameter ³ÝÄµÚà ’ ¢Ê¥¿Ý·
+
+          int _ceil(int x,int y)
+          {
+               return x/y+((x%y)?1:0);
+          }
+
+     font  µÚàÐ¡ß¸¦ÌÐ¡ß¸ÐÁÚÀ¥¡Ý·Ô¹µÚÃÌ  byte  ¦Î¡©áÎÀÔ¹¢ÄÎ ¦Î¡¸·Ã¥ÃàÎ¥ Ó·¡Á±ÚµÚàÐÈÃÜÊÐÅÆÔ¿à£Á¸ 
+byte ¦ÌÐ¡ß¸ 1 byte Ô¹ÐÃÀ Ð¨à· font ¢·Î² 22x16 ¦Ì¿Ú¢·Î²²Ý¥·Úá
+
+          22 bit ¦ÌÐ¡ß¸Ó· 3 bytes
+               ¦ÌÔ²á¢·Î²  =  3  x 16 x 256 bytes ÑÃáÄ¸Ä¡£ÄÎ¿ÀÎÄ¢Ê¥ header ©Ûà¥¿Ú£àÎ 26 
+bytes ¦ÌÔ²áÐ¹ß· ¢·Î²¢Ê¥ font file 
+
+     Ó·µÚà·Úá¿Ú  utility  µÚà¦ÌµÏÈ·áÎµÚàÑ¹Ã¥¢áÊ¿ØÃ¦Î¡  font .FED ÓÈáÐ¹ß· font .PRN ¢Ê¥Ð£ÁÜàÊ¥¼Ù¿¼ä 
+ÈÁÜÊ  .FON ¢Ê¥¦Ê¾Î¼Ô²á ÑÃÌ utility µÚà¦ÌÑ¹Ã¥¡ÃÝ¸Ô²á²áÄÀ Ð¼ÜàÊÐ¹ß·³ÝÄÊÀàÎ¥Ó·¡ÎÁ·ÏÑ½á¿¢áÊ¿ØÃ .FED 
+Ô¹Ó¨áÓ·¥Î·ÊÜà·Õ Ô²á
+     
+     Ó· version ·Úá ¢·Î²¢Ê¥ font Ô²á¡ÏÈ·²ÔÄáÄàÎ Ô¿àÐ¡Ù· 64 x 64 dots

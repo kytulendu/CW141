@@ -1,0 +1,94 @@
+# makefile for cuprint.exe
+# by Suttipong Kanakakorn
+# Sun  08-06-1989  16:24:05
+#
+# TCC_OPTION -w = enable all warning
+#
+TCC_OPTION=-w
+
+\cw\cuprint.exe: \
+        ..\common\edisp.obj ..\common\hdisp.obj ..\common\adisp.obj \
+        ..\common\grdetect.obj \
+        ..\common\cwgrphc.obj ..\common\cwegrph.obj ..\common\cwagrph.obj \
+        ..\common\ekbd.obj \
+        ..\common\cscrn.obj ..\common\fileutil.obj ..\common\dir.obj \
+        ..\common\sound.obj \
+        kbd.obj getstr.obj tutil1.obj cupsetup.obj \
+        pmenu.obj smenu.obj prtutil.obj \
+        printing.obj prt.obj prtt.obj prtg.obj \
+        pic.obj dot.obj cpi.obj global.obj prncntrl.obj \
+        error.obj preproc.obj 24pins.obj attr.obj cpthai.obj \
+        prtbuf24.obj
+    tcc -c $(TCC_OPTION) ..\common\stampdate.c
+    tlink   @scup.tlr
+
+kbd.obj: kbd.c
+    tcc -c $(TCC_OPTION) kbd.c
+
+getstr.obj: getstr.c
+    tcc -c $(TCC_OPTION) getstr.c
+
+tutil1.obj: tutil1.c
+    tcc -c $(TCC_OPTION) tutil1.c
+
+cupsetup.obj: cupsetup.c
+    tcc -c $(TCC_OPTION) cupsetup.c
+
+pmenu.obj: pmenu.c
+    tcc -c $(TCC_OPTION) pmenu.c
+
+smenu.obj: smenu.c
+    tcc -c $(TCC_OPTION) smenu.c
+
+#pconfig.obj: pconfig.c
+#    tcc -c $(TCC_OPTION) pconfig.c
+
+prtutil.obj: prtutil.c
+    tcc -c $(TCC_OPTION) prtutil.c
+
+printing.obj: printing.c
+    tcc -c $(TCC_OPTION) printing.c
+
+prt.obj: prt.c
+    tcc -c $(TCC_OPTION) prt.c
+
+prtt.obj: prtt.c
+    tcc -c $(TCC_OPTION) prtt.c
+
+prtg.obj: prtg.c
+    tcc -c $(TCC_OPTION) prtg.c
+
+pic.obj: pic.c
+    tcc -c $(TCC_OPTION) pic.c
+
+dot.obj: dot.c
+    tcc -c $(TCC_OPTION) dot.c
+
+cpi.obj: cpi.c
+    tcc -c $(TCC_OPTION) cpi.c
+
+global.obj: global.c
+    tcc -c $(TCC_OPTION) global.c
+
+prncntrl.obj: prncntrl.c
+    tcc -c $(TCC_OPTION) prncntrl.c
+
+error.obj: error.c
+    tcc -c $(TCC_OPTION) error.c
+
+preproc.obj: preproc.c
+    tcc -c $(TCC_OPTION) preproc.c
+
+24pins.obj: 24pins.c
+    tcc -c $(TCC_OPTION) 24pins.c
+
+attr.obj: attr.c
+    tcc -c $(TCC_OPTION) attr.c
+
+cpthai.obj: cpthai.c
+    tcc -c $(TCC_OPTION) cpthai.c
+
+prtbuf24.obj: prtbuf24.c
+    tcc -c $(TCC_OPTION) prtbuf24.c
+
+

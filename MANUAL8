@@ -1,0 +1,233 @@
+                                 ³Ê·µÚà  3
+                         
+                      ¡ÎÁÓ¨á  Dot  Command
+
+          Ò¹ÁÑ¡Á¿  CUWRITER  ·Ê¡ĞÈ·ÜÊ¦Î¡¡ÎÁ¿ÚÁÌ¸¸³Ù²³àÊ¡İ¸ºØáÓ¨áÑ¸¸ÁÎÀ¡ÎÁĞÃÜÊ¡µÚà¿Ú£ÏÊ¶Ù¸ÎÀĞ¹ß·
+¾ÎÆÎÔµÀÑÃáÄ   Ó·¡Á±ÚµÚà³áÊ¥¡ÎÁÓÈá  CUWRITER   µÏ¥Î·Ğ¹ß·Êİ³Ò·¿İ³Ù³Î¿ÁØ¹Ñ¸¸µÚà¡ÏÈ·²  ºØáÓ¨áÇÎ¿ÎÁ´µÏ
+Ô²á²áÄÀ¡ÎÁÓ¨á Dot Command
+
+          Dot  Command   Ğ¹ß·£ÏÇİà¥µÚàÓ¨á¡ÏÈ·²¡ÎÁµÏ¥Î·Ó·Ãİ¡Æ±Ì¼ÙĞÅÆ   ¸Î¥£ÏÇİà¥µÏÓÈáĞ¡Ù²¡ÎÁµÏ
+¥Î·Ñ¸¸Êİ³Ò·¿İ³Ù Dot Command ¿ÚÁØ¹Ñ¸¸µİàÄÔ¹ ²áÄÀ¡ÎÁĞ¢ÚÀ·¦×²  .  ·ÏÈ·áÎ£ÏÇİà¥·İá· ¢áÊ£ÄÎ¿ÑÇ²¥£ÏÇİà¥¦Ì
+Ó¨á³İÄÊİ¡ÆÁ³İÄÓÈ«àÈÁÜÊĞÃß¡¡ßÔ²á  ÑÃÌ  Dot Command  ·Úá¦Ì´Ø¡¸ÁÁ¦×ÔÄáÓ·Ñ½á¿ĞÊ¡ÇÎÁ  ²İ¥ÑÇ²¥ÁÎÀÃÌĞÊÚÀ²
+¼ÁáÊ¿³İÄÊÀàÎ¥²İ¥³àÊÔ¹·Úá
+
+          ÁÎÀ¡ÎÁ  Dot Command
+
+          1.  .PA   -   Ó¨áÇÏÈÁİ¸¡ÎÁ¢Ûá·È·áÎÓÈ¿à  (new  PAge)  Ğ¹ß·  Command  Ó·¡ÎÁ³İá¥¡ÎÁ
+                        ÈÀ×²È·áÎ¡ÁÌ²ÎÆÒ²ÀÔ¿à¿ÚĞ¥ÜàÊ·Ô¢  (Setting  an unconditional page 
+                        break)   £ÏÇİà¥·Úá¸Ê¡ÓÈáÁØáÄàÎ¦Ì³áÊ¥ÈÀ×²¡ÎÁ¼Ù¿¼äÇÏÈÁİ¸È·áÎ·İá·Ó·¸ÁÁµİ²³àÊÔ¹
+                        ¸ÁÁµİ²µÚàÓÇà£ÏÇİà¥ .PA ·İá·Ô¿à´Ø¡·İ¸Ğ¹ß·¸ÁÁµİ²ĞÁÙà¿³á·  Ñ³à¦Ì·İ¸³İá¥Ñ³à¸ÁÁµİ²´İ²
+                        ¦Î¡£ÏÇİà¥Ã¥Ô¹  (Ó¨áÓ·¡Á±ÚµÚàºØáÓ¨á³áÊ¥¡ÎÁÓÈá¼Ù¿¼ä¢áÊ£ÄÎ¿Ó·ÇàÄ·ÀàÊÈ·áÎ·İá·  Õ 
+                        Ó·¡ÁÌ²ÎÆÊÚ¡Ñºà·È·Ûà¥)
+
+          ÁØ¹Ñ¸¸      .pa
+          ³İÄÊÀàÎ¥
+                              Test Command  .pa
+          .pa
+          The  only computer form you use are in plain and simple
+          English.   Because  you design them.  You don't have to 
+          translate  all  your current forms into exotic computer 
+          language  that  nobody  understand.
+          .pa          
+                    You  don't have to translate them at all.  If 
+          you  wish  you can enter those forms into DataStar just 
+          the way they now look on paper.
+                     Ğ¿ÜàÊºØáÓ¨á²ØºÃÃİ¼¶äµÚà¼Ù¿¼äÊÊ¡µÎ¥¡ÁÌ²ÎÆ¦Ì¼¸ÄàÎ  ºØáÓ¨á¦ÌÔ²áºÃÃİ¼¶äµÚà¼Ù¿¼äÊÊ¡¿Î´Û¥
+                     3 È·áÎ¡ÁÌ²ÎÆ £ÜÊ
+                     È·áÎµÚà 1 ¢áÊ£ÄÎ¿ "Test Command .pa"
+                     È·áÎµÚà 2 ¢áÊ£ÄÎ¿ " The only computer ...   Ô¹¦·¦¸ÀàÊÈ·áÎ
+                     È·áÎµÚà 3 ¢áÊ£ÄÎ¿ " You don't have ... Ô¹¦·¦¸ÀàÊÈ·áÎ
+
+          2.  .PN n  -  Ó¨áÇÏÈÁİ¸¡ÎÁ¡ÏÈ·²ĞÃ¢È·áÎÓÈ¿à  (Page Number) ¦ÌĞ¹ß·ĞÃ¢È·áÎĞµàÎÓ²
+                        ¡ßÔ²á Ò²ÀÒ¹ÁÑ¡Á¿¦ÌĞ¼Ùà¿ĞÃ¢È·áÎÔ¹ĞÁÜàÊÀ Õ ÑÃÌ¦Ï·Ä·µÚàÓÇà³áÊ¥Ğ¹ß·¦Ï·Ä·
+                        ³İÄĞÃ¢ĞµàÎ·İá·
+
+          ÁØ¹Ñ¸¸     .pn n
+          ³İÄÊÀàÎ¥
+          .pn 20          
+                           Test  Command .pn
+          The  only computer form you use are in plain and simple
+          English.   Because  you design them.  You don't have to 
+          translate  all  your  current forms into exotic computer 
+          language  that  nobody  understand.
+
+                    You  don't have to translate them at all.  If 
+          you  wish  you can enter those forms into DataStar just 
+          the way they now look on paper.
+
+
+                    È¿ÎÀ£ÄÎ¿ÄàÎĞ¿ÜàÊÇİà¥¼Ù¿¼äÊÊ¡µÎ¥Ğ£ÁÜàÊ¥¼Ù¿¼ä Ô¿àÄàÎ¦Ì¼Ù¿¼ä´Û¥È¿ÎÀĞÃ¢È·áÎµÚàĞµàÎÔÁ
+          ¿ÎÑÃáÄ¡ß³Î¿  Ğ¿ÜàÊ¼¸£ÏÇİà¥.pn 20  ¦ÌĞ¹ÃÚàÀ·È¿ÎÀĞÃ¢Ğ¹ß· 20 µİ·µÚ ¡ÎÁÓ¨á£ÏÇİà¥ .pn ·Úá¦Ì
+          ³áÊ¥Çİ¿¼İ·¶ä¡İ¸Ğ¿·Ø¡ÎÁ¼Ù¿¼ä  CUPRINT Ó·¡ÎÁ¡ÏÈ·²³ÏÑÈ·à¥ÈİÄ¢áÊĞÁÜàÊ¥   ÇàÄ·¢Ê¥¡ÎÁ¡ÏÈ·²
+          ³ÏÑÈ·à¥¼Ù¿¼äÈ·áÎ¡ÁÌ²ÎÆ²áÄÀ  ¡Á±ÚµÚàºØáÓ¨áÔ¿àÔ²á¡ÏÈ·²ÓÈá¼Ù¿¼ä Ò¹ÁÑ¡Á¿¡ß¦ÌÔ¿àµÏ¡ÎÁ¼Ù¿¼äÓÈá
+
+
+          3.  .DF filename  -  Ó¨áÇÏÈÁİ¸¡ÎÁ¡ÏÈ·² Data File Ğ¼ÜàÊÓ¨á¥Î·ÁàÄ¿¡İ¸ Mailmerge
+                               Ò²À Filename ¦ÌĞ¹ß·¨ÜàÊ¢Ê¥ Data File
+
+          ÁØ¹Ñ¸¸          .DF filename
+          ³İÄÊÀàÎ¥
+          .df b:mail.dat
+
+                    ÇÏÈÁİ¸ÁÎÀÃÌĞÊÚÀ²¦Ì²ØÔ²á¦Î¡ÄÙ¶Ú¡ÎÁÓ¨á MailMerge  
+
+          4.  .RV  field-layout  -  Ó¨áÇÏÈÁİ¸¡ÎÁ¡ÏÈ·²  ÓÈáÊàÎ·ÁÎÀ¡ÎÁ³İÄÑ¹Á (Read 
+                                    Variable) ¦Î¡  Record Ó·  Data  File Ò²ÀºØá
+                                    Ó¨áÔ¿à¦ÏĞ¹ß·³áÊ¥Ó¨áµ×¡³İÄÓ·ÁÌÈÄàÎ¥¡ÎÁ¼Ù¿¼ä   (ÇÏÈÁİ¸ 
+                                    MailMerge ĞµàÎ·İá·)
+
+          ÁØ¹Ñ¸¸     .RV field-layout
+          ³İÄÊÀàÎ¥    
+          .rv ¨ÜàÊ,·Î¿Ç¡×Ã,µÚàÊÀØà,ÁÎÀÔ²á
+
+                    ÇÏÈÁİ¸ÁÎÀÃÌĞÊÚÀ²ÄÙ¶Ú¡ÎÁÓ¨á²ØÓ·¡ÎÁÓ¨á MailMerge
+
+          5.  .SK     -    Ó¨áÇÏÈÁİ¸¡ÎÁ skip record ´İ²Ô¹    Ò²À¹¡³Ù£ÏÇİà¥·Úá¦ÌÄÎ¥ÔÄáµÚàµáÎÀ
+                           Ñ½á¿¢áÊ¿ØÃ  Ñ³àÊÎ¦¦Ì¡ÏÈ·²µÚà³ÏÑÈ·à¥Ó² Õ ´áÎ³áÊ¥¡ÎÁÓÈá¼Ù¿¼ä record 
+                           ´İ²Ô¹  µÏÓÈáÇÎ¿ÎÁ´£Ä¸£×¿ÄàÎ¦Ì¼Ù¿¼ä¢áÊ¿ØÃ MailMerge Ô²áÊÀàÎ¥ÊÙÇÁÌ
+                           Ğ¨à·   ÇÎ¿ÎÁ´¼Ù¿¼äÁÎÀ¨ÜàÊ¢Ê¥Ç¿Î¨Ù¡Ô²áÈÃÎÀ£·Ó·¦²È¿ÎÀ§¸İ¸Ğ²ÚÀÄ¡İ· 
+                           ÑÃÌÇÎ¿ÎÁ´ºàÎ· Ô¿à¼Ù¿¼ä¨ÜàÊÇÎ¿Î¨Ù¡¸Î¥£·Ô²á
+
+          ÁØ¹Ñ¸¸
+          .sk
+
+                    ÇÏÈÁİ¸³İÄÊÀàÎ¥ÑÃÌÄÙ¶Ú¡ÎÁÓ¨á²ØÔ²áÓ·¡ÎÁÓ¨á MailMerge
+
+          6.  .CW n  -  Ó¨áÇÏÈÁİ¸¡ÎÁ¡ÏÈ·²¢·Î²¢Ê¥¦Ï·Ä·³İÄÊİ¡ÆÁ³àÊ·ÙáÄ (Character  Width)
+                        Ò²ÀºØáÓ¨áÇÎ¿ÎÁ´¡ÏÈ·²Ô²á³İá¥Ñ³à 1 - 20 ³İÄÊİ¡ÆÁ³àÊ·ÙáÄ
+
+          ÁØ¹Ñ¸¸     .cw n
+          ³İÄÊÀàÎ¥    
+          .cw 12
+          È¿ÎÀ£ÄÎ¿ÄàÎ ¡ÏÈ·²ÓÈá¼Ù¿¼ä¦Ï·Ä·³İÄÊİ¡ÆÁ 12 ³İÄ³àÊ 1 ·ÙáÄ
+          7.  .PO n  -  Ğ¹ß·¡ÎÁ¡ÏÈ·²ÁÌÀÌ¡İá·©áÎÀÓ·¡ÎÁ¼Ù¿¼ä   (Set   left   margin) 
+                        Ò²À¡ÏÈ·²Ğ¹ß·¦Ï·Ä·³İÄÊİ¡ÆÁ   £àÎµÚà¡ÏÈ·²¦Ì³áÊ¥¿Ú£àÎ¿Î¡¡ÄàÎ 0 ÑÃÌ·áÊÀ
+                        ¡ÄàÎÁÌÀÌ¡İá·¢ÄÎ
+
+          ÁØ¹Ñ¸¸     .PO n
+          ³İÄÊÀàÎ¥    
+          .po 10
+
+          8.  .PR n  -  Ó¨áÇÏÈÁİ¸¡ÎÁ¡ÏÈ·²ÁÌÀÌ¡İá·¢ÄÎÓ·¡ÎÁ¼Ù¿¼ä  (Set right margin) Ò²À
+                         £àÎµÚà¡ÏÈ·²¦ÌĞ¹ß·£àÎ¢Ê¥¦Ï·Ä·³İÄÊİ¡ÆÁ  ÑÃÌ£àÎµÚà¡ÏÈ·²¦Ì³áÊ¥¿Î¡¡ÄàÎ£àÎ
+                         µÚà¡ÏÈ·²Ó·ÁÌÀÌ¡İá·©áÎÀ ÑÃÌ¦Ì³áÊ¥Ô¿à¿Î¡¡ÄàÎ£ÄÎ¿ÇÎ¿ÎÁ´¢Ê¥Ğ£ÁÜàÊ¥¼Ù¿¼ä
+                         µÚàÓ¨á¼Ù¿¼ä·İá· Õ
+
+          ÁØ¹Ñ¸¸     .PR n
+          ³İÄÊÀàÎ¥
+          .pr 80
+
+          9.  .HE text  -  Ó¨áÇÏÈÁİ¸¡ÎÁĞ¼Ùà¿ Heading (adding page HEading's  .HE) Ó·
+                           ¡Á±ÚµÚàºØáÓ¨á³áÊ¥¡ÎÁÓÈá¿Ú¡ÎÁ¼Ù¿¼äÈİÄĞÁÜàÊ¥Ñ¸¸Ğ²ÚÀÄ¡İ·µÚàÈİÄ¡ÁÌ²ÎÆÓ·Ñ³àÃÌ
+                           È·áÎ ºØáÓ¨áÇÎ¿ÎÁ´¡ÏÈ·²ÈİÄ¢áÊÔ²á³İá¥Ñ³à 1 ³İÄÊİ¡ÆÁ ¦·´Û¥ 1 ¸ÁÁµİ²
+
+          ÁØ¹Ñ¸¸     .HE text
+          ³İÄÊÀàÎ¥
+          .he ĞÊ¡ÇÎÁ¹ÁÌ¡Ê¸¡ÎÁÓ¨á  CUWRITER
+
+                           ¡Á±ÚµÚàºØáÓ¨áÔ²á¡ÏÈ·²µÚà¦ÌÓ¨á Dot Command .he  Ğ¿ÜàÊĞ¢áÎÇØàĞ¿·Ø¡ÎÁ¼Ù¿¼ä
+                           "CUPRINT"   ºØáÓ¨á¦Ì³áÊ¥Ô¹µÏ¡ÎÁ¡ÏÈ·²Ó·³ÏÑÈ·à¥ÈİÄ¢áÊĞÁÜàÊ¥Ó·ÇàÄ·
+                           ³ÏÑÈ·à¥¢Ê¥ÈİÄ¡ÁÌ²ÎÆÄàÎ³áÊ¥¡ÎÁÓÈá¼Ù¿¼ä ± ³ÏÑÈ·à¥Ó²¢Ê¥¡ÁÌ²ÎÆ¼Ù¿¼ä 
+                           
+
+
+
+
+
+          10.  .FO text -  Ó¨áÇÏÈÁİ¸¡ÎÁĞ¼Ùà¿ Footing (adding  page  FOoting .FO)  Ó·
+                           ¡Á±ÚµÚàºØáÓ¨á³áÊ¥¡ÎÁ¡ÏÈ·²¢áÊ£ÄÎ¿µáÎÀ¡ÁÌ²ÎÆ¼Ù¿¼ä  Ò²ÀÓ¨á Command ·Úá  
+                           ºØáÓ¨áÇÎ¿ÎÁ´¡ÏÈ·²¢áÊ£ÄÎ¿Ô²á³İá¥Ñ³à 1 ³İÄÊİ¡ÆÁ ¦·´Û¥ 1 ¸ÁÁµİ²
+
+          ÁØ¹Ñ¸¸     .FO text
+          ³İÄÊÀàÎ¥
+          .fo ¦×ÉÎÃ¥¡Á±ä¿ÈÎÄÙµÀÎÃİÀ
+
+                           ¡Á±ÚµÚàºØáÓ¨áÔ²á¡ÏÈ·²µÚà¦ÌÓ¨á Dot Command .fo  Ğ¿ÜàÊĞ¢áÎÇØàĞ¿·Ø¡ÎÁ¼Ù¿¼ä
+                           "CUPRINT"   ºØáÓ¨á¦Ì³áÊ¥Ô¹µÏ¡ÎÁ¡ÏÈ·²Ó·³ÏÑÈ·à¥ÈİÄ¢áÊĞÁÜàÊ¥Ó·ÇàÄ·
+                           ³ÏÑÈ·à¥¢Ê¥µáÎÀ¡ÁÌ²ÎÆÄàÎ³áÊ¥¡ÎÁÓÈá¼Ù¿¼äÓ·³ÏÑÈ·à¥Ó²¢Ê¥¡ÁÌ²ÎÆ¼Ù¿¼ä 
+
+
+          11.  .PT text -  Ğ¹ß·¡ÎÁ¡ÏÈ·²ÓÈá¼Ù¿¼ä¢áÊ£ÄÎ¿µÚàÇàÄ·¢Ê¥È·áÎ¡ÁÌ²ÎÆ (Get PageTitle)
+
+          ÁØ¹Ñ¸¸     .pt text
+          ³İÄÊÀàÎ¥
+          .pt ÃÏ²İ¸µÚà
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            ³İÄÊÀàÎ¥¡ÎÁÓ¨á Dot Command
+
+          Ç¿¿³ÙÓÈáÇÁáÎ¥Ñ½á¿¢áÊ¿ØÃÓÈ¿à    Ò²ÀÓ¨á¨ÜàÊ   "B:test"   ¦Î¡·İá·ÓÈá¼Ù¿¼ä¢áÊ£ÄÎ¿³Î¿³İÄÊÀàÎ¥ 
+     Ò²ÀµÚà Dot Command ³ÏÑÈ·à¥¢Ê¥¡ÎÁÓ¨á Dot Command ¦Ì³áÊ¥ĞÁÙà¿µÚà£ÊÃİ¿¾ä 1 ĞÇ¿Ê
+
+    .he  ĞÊ¡ÇÎÁ¹ÁÌ¡Ê¸¡ÎÁÓ¨á CUWRITER
+    .fo  Chulalongkorn University
+    .po 10
+    .pr 80
+    .cw 12
+    .pt Page
+    .pn 19
+          To  produce  boldface  printing,  press Ctrl PB  before and after 
+    the  desired  words.   If  the  words  are in a title, you can type the 
+    first  Ctrl  PB on the line before the title and the second on the line 
+    after  the title.  If the words are within a paragraph of text, you can 
+    type the control characters immediately before and after the words.
+    .pa
+          To  produce  underlining,  press  Ctrl  PS  before  and after the 
+    desired  words.   If you want continous underlining, make sure you type 
+    underscore   characters   between  words.  Otherwise,  only  the  words 
+    themselves  will  be  underscored and the spaces between the words will 
+    be blank.
+
+          Ğ¿ÜàÊ¼Ù¿¼äĞÇÁß¦ÑÃáÄ ÓÈá¡² ^KS  Ğ¼ÜàÊĞ¡ß¸¸İ·µÛ¡¢áÊ¿ØÃµİá¥È¿²Ã¥¸·Ñºà·¦Î·Ñ¿àĞÈÃß¡ (Diskette)
+     ÑÃÌÓÈáµÏ¡ÎÁĞ¢áÎÇØàĞ¿·Ø¡ÎÁ¼Ù¿¼ä CUPRINT Ò²À¡ÎÁ¡²¹×à¿  <ESC>  ÑÃÌĞÃÜàÊ·Ñ´¸ÇÄàÎ¥Ô¹Àİ¥³ÏÑÈ·à¥
+     "¼Ù¿¼äÑ½á¿¢áÊ¿ØÃ ^KP"  Ğ¿ÜàÊĞ¢áÎÇØàĞ¿·Ø¡ÎÁ¼Ù¿¼äÑÃáÄÓÈáµÏ¡ÎÁ¡ÏÈ·²³ÏÑÈ·à¥ÈİÄ¢áÊĞÁÜàÊ¥ ²İ¥·Úá
+
+              €…………………………………………………………………………………
+              „   ³ÏÑÈ·à¥ÈİÄ¡ÁÌ²ÎÆ       ¡ÃÎ¥   „
+              „   ³ÏÑÈ·à¥µáÎÀ¡ÁÌ²ÎÆ      ¡ÃÎ¥   „
+              „   ³ÏÑÈ·à¥È·áÎ¡ÁÌ²ÎÆ      ¢ÄÎ    „
+              ‚…………………………………………………………………………………ƒ
+          Ğ¿ÜàÊÇİà¥¼Ù¿¼äÑÃáÄ Ãİ¡Æ±Ì¢Ê¥¢áÊ¿ØÃµÚàÔ²á¦Ì¿ÚÃİ¡Æ±Ì²İ¥·Úá
+                           ĞÊ¡ÇÎÁ¹ÁÌ¡Ê¸¡ÎÁÓ¨á CUWRITER
+                                                                    Page 19
+
+          To  produce  boldface  printing,  press Ctrl PB  before and after 
+    the  desired  words.   If  the  words  are in a title, you can type the 
+    first  Ctrl  PB on the line before the title and the second on the line 
+    after  the title.  If the words are within a paragraph of text, you can 
+    type the control characters immediately before and after the words.
+
+          
+                            Chulalongkorn University
+
+
+
+
+
+                           ĞÊ¡ÇÎÁ¹ÁÌ¡Ê¸¡ÎÁÓ¨á CUWRITER
+
+                                                                    Page 20
+
+          To  produce  underlining,  press  Ctrl  PS  before  and after the 
+    desired  words.   If you want continous underlining, make sure you type 
+    underscore   characters   between  words.  Otherwise,  only  the  words 
+    themselves  will  be  underscored and the spaces between the words will 
+    be blank.
+
+
+          
+                            Chulalongkorn University

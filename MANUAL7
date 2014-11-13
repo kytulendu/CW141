@@ -1,0 +1,183 @@
+                     ³ÝÄÊÀàÎ¥¡ÎÁÓ¨á CUPRINT
+
+          Ð¿ÜàÊºØáÓ¨á¿ÚÑ½á¿¢áÊ¿ØÃµÚà³ÁÄ¦Ñ¡áÔ¢ÐÁÚÀ¸ÁáÊÀÑÃáÄ    ÑÃÌ¼ÁáÊ¿¦Ì¼Ù¿¼äÊÊ¡µÎ¥Ð£ÁÜàÊ¥¼Ù¿¼ä    ¡àÊ·
+¡ÎÁ¼Ù¿¼äºØáÓ¨á£ÄÁÐ³ÁÚÀ¿£ÄÎ¿¼ÁáÊ¿¢Ê¥Ð£ÁÜàÊ¥¼Ù¿¼ä  ²Ý¥¢Ýá·³Ê·³àÊÔ¹·Úá
+          1.  Ð¹Ù²ÇÄÙµ©äÐ£ÁÜàÊ¥¼Ù¿¼ä
+          2.  ÓÇà¡ÁÌ²ÎÆÓÈá¢Ê¸¸·¢Ê¥¡ÁÌ²ÎÆÊÀØàÐÈ·ÜÊÁÌ²Ý¸ÈÝÄ¼Ù¿¼ä¼Ê¹ÁÌ¿Î±
+          3.  ¡²ÇÄÙµ©ä READY  ÈÁÜÊ  ONLINE ¸·Ð£ÁÜàÊ¥¼Ù¿¼äÓÈá¿ÚÇÝ««Î·Ô½³Ù²
+
+          Ð¿ÜàÊÐ³ÁÚÀ¿Ð£ÁÜàÊ¥¼Ù¿¼ä¼ÁáÊ¿ÑÃáÄ Ó·¢±ÌµÚàÊÀØàÓ·Ð¿·ØÈÃÝ¡¢Ê¥ CUWRITER ÓÈáÐÃÜàÊ·Ñ´¸ÇÄàÎ¥¿ÎµÚà¢áÊ£ÄÎ¿
+
+                    €………………………………………………………………………………
+                    „  ¼Ù¿¼äÑ½á¿¢áÊ¿ØÃ            ^KP   „
+                    ‚………………………………………………………………………………ƒ
+
+          ¡²  ENTER  ¦ÌÔ²áÐ¿·Ø¢Ê¥ CUPRINT   ²Ý¥ÁØ¹µÚà 33
+
+€……………………………………………………………………………………………………………………………………………………………………………………………………………………………
+„   ¦×ÉÎÃ¥¡Á±ä¿ÈÎÄÙµÀÎÃÝÀ                                Ñ½á¿¢áÊ¿ØÃ :                      „
+†……………………………………………………………………………………………………………………………………………………………………………………………………………………………‡
+„                                 CU-PRINT                                  „
+„                                    Version 1.4                                    „
+„€………………………………………………………………………€………………………………………………………………€……………………………………………………………………„
+„„ÓÇà¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚà³áÊ¥¡ÎÁ¼Ù¿¼ä      „„¦Ï·Ä·¸ÁÁµÝ²³àÊÈ·áÎ       26„„ÈÝÄ¡ÁÌ²ÎÆ (Header)         „„
+„„ÐÁÙà¿¼Ù¿¼äÑ½á¿¢áÊ¿ØÃ              „„¢·Î²³ÝÄÊÝ¡ÆÁ (³ÝÄ³àÊ·ÙáÄ)   10„„µáÎÀ¡ÁÌ²ÎÆ (Footer)        „„
+„„Ð¹ÃÚàÀ·¨àÊ¥Ð¡ß¸(Disk Drive)  A „„¢Ê¸©áÎÀ (Left Margin)   1„„È·áÎ¡ÁÌ²ÎÆ (PageTitle)     „„
+„„Ð¹ÃÚàÀ·ÁÎ¡(Directory)        „„¢Ê¸¢ÄÎ (Right Margin) 80„„³ÏÑÈ·à¥ÈÝÄ¢áÊÐÁÜàÊ¥ (Title)    „„
+„„Ô¹ÁÌ¸¸¹­Ù¸Ý³Ù¡ÎÁ¨ÝàÄ£ÁÎÄ        „„ÐÁÙà¿¼Ù¿¼äµÚàÈ·áÎ             1„„Ð¡ß¸£àÎ³ÝÄÑ¹Á (Parameters)   „„
+„„Ð£ÁÜàÊ¥¼Ù¿¼ä (Printer Options) „„ÈÀ×²¼Ù¿¼äµÚàÈ·áÎ           999„„ÊàÎ·£àÎ³ÝÄÑ¹Á (Parameters)   „„
+„„ÁÈÝÇ¢áÊ¿ØÃ¾ÎÆÎÔµÀ        Ð¡Æ³Á„„È¿ÎÀÐÃ¢È·áÎÐÁÙà¿³á·        1„„ÒÈ¿²¼Ù¿¼ä (Mode & Precision)„„
+„„ÐÃÙ¡¡ÎÁµÏ¥Î·           ALT-X„„¦Ï·Ä·¨×²µÚà¼Ù¿¼ä (COPY)     1„„ÈÀ×²Ð¹ÃÚàÀ·¡ÁÌ²ÎÆµ×¡È·áÎ   ÈÀ×² „„
+„‚………………………………………………………………………ƒ‚………………………………………………………………ƒ‚……………………………………………………………………ƒ„
+„                           Ò¹ÁÑ¡Á¿¦Ý²¼Ù¿¼äÐÊ¡ÇÎÁ¾ÎÆÎÔµÀ/ÊÝ¥¡ÂÆ                         „
+‚……………………………………………………………………………………………………………………………………………………………………………………………………………………………ƒ 
+                               ÁØ¹µÚà 33  ÑÇ²¥¦Ê¾Î¼¢Ê¥ CUPRINT
+          ¢±Ì·ÚáÑ´¸ÇÄàÎ¥ÊÀØàµÚà¢áÊ£ÄÎ¿
+
+                    €……………………………………………………………………………………
+                    „  ÓÇà¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚà³áÊ¥¡ÎÁ¼Ù¿¼ä         „
+                    ‚……………………………………………………………………………………ƒ
+
+          ÓÈá¡²  ENTER  ¦ÌÔ²á¢áÊ£ÄÎ¿µÚà¸Ê¡ÓÈáÓÇà¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚà³áÊ¥¡ÎÁ¼Ù¿¼ä  ²Ý¥·Úá
+
+                    €……………………………………………………………………………………
+                    „ÓÇà¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚà³áÊ¥¡ÎÁ¼Ù¿¼ä  :  *.*   „
+                    ‚……………………………………………………………………………………ƒ
+
+          ÓÈáÓÇà¨ÜàÊ  B:MAIL1  ÑÃáÄ¡² ENTER  ¨ÜàÊÑ½á¿¢áÊ¿ØÃ·Úá¦ÌÔ¹¹ÁÎ¡­³àÊµáÎÀ¢áÊ£ÄÎ¿ "Ñ½á¿¢áÊ¿ØÃ"  
+          ²áÎ·¢ÄÎ ÇàÄ·¸·¢Ê¥¦Ê¾Î¼
+
+          Ó·¢±Ì·ÚáºØáÓ¨á¿ÚÑ½á¿µÚà³áÊ¥¡ÎÁ¼Ù¿¼ä  ¢Ýá·³Ê·³àÊÔ¹µÚà¦Ì³áÊ¥¹­Ù¸Ý³Ù £ÜÊ
+          1.  ÐÃÜàÊ·Ñ´¸ÇÄàÎ¥Ô¹ÀÝ¥¢áÊ£ÄÎ¿
+
+                    €……………………………………………………………………………………
+                    „ Ð£ÁÜàÊ¥¼Ù¿¼ä (Printer Options)     „
+                    ‚……………………………………………………………………………………ƒ
+               ¡²  ENTER  ¦ÌÔ²áÈ·áÎ³àÎ¥ ²Ý¥ÁØ¹µÚà 34
+
+
+
+
+
+
+
+
+
+
+
+
+€……………………………………………………………………………………………………………………………………………………………………………………………………………………………
+„   ¦×ÉÎÃ¥¡Á±ä¿ÈÎÄÙµÀÎÃÝÀ                               Ñ½á¿¢áÊ¿ØÃ :  MAIL1                „
+†……………………………………………………………………………………………………………………………………………………………………………………………………………………………‡
+„                                CU-PRINT                                   „
+„                                   Version 1.4                                     „
+„€………………………………………………………………………€………………………………………………………………€……………………………………………………………………„     
+„„ÓÇà¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚà³áÊ¥¡ÎÁ¼Ù¿¼ä      „„¦Ï·Ä·¸ÁÁµÝ²³àÊÈ·áÎ       26„„ÈÝÄ¡ÁÌ²ÎÆ (Header)         „„
+„„ÐÁÙà¿¼Ù¿¼äÑ½á¿¢áÊ¿ØÃ              „„¢·Î²³ÝÄÊÝ¡ÆÁ (³ÝÄ³àÊ·ÙáÄ)   10„„µáÎÀ¡ÁÌ²ÎÆ (Footer)        „„
+„„Ð¹ÃÚàÀ·¨àÊ¥Ð¡ß¸(Disk Drive)  A „„¢Ê¸©áÎÀ (Left Margin)   1„„È·áÎ¡ÁÌ²ÎÆ (PageTitle)     „„
+„„Ð¹ÃÚàÀ·ÁÎ¡(Directory)        „„¢Ê¸¢ÄÎ (Right Margin) 80„„³ÏÑÈ·à¥ÈÝÄ¢áÊÐÁÜàÊ¥ (Title)    „„
+„„Ô¹ÁÌ¸¸¹­Ù¸Ý³Ù¡ÎÁ¨ÝàÄ£ÁÎÄ        „„ÐÁÙà¿¼Ù¿¼äµÚàÈ·áÎ             1„„Ð¡ß¸£àÎ³ÝÄÑ¹Á (Parameters)   „„
+„„Ð£ÁÜàÊ¥¼Ù¿¼ä (Printer Options) „„ÈÀ×²¼Ù¿¼äµÚàÈ·áÎ          9999„„ÊàÎ·£àÎ³ÝÄÑ¹Á (Parameters)   „„
+„„Á€…………………………………………………………………ˆˆ……ÐÃ¢È·áÎÐÁÙà¿³á·         1„„ÒÈ¿²¼Ù¿¼ä (Mode & Precision)„„
+„„Ð„ Ð£ÁÜàÊ¥¼Ù¿¼ä  NEC P5,P7,P9 XL   „Ä·¨×²µÚà¼Ù¿¼ä (COPY)     1„„ÈÀ×²Ð¹ÃÚàÀ·¡ÁÌ²ÎÆµ×¡È·áÎ   ÈÀ×² „„
+„‚…‡ ¢·Î²È·áÎ¡ÁÌ²ÎÆ         136   †………………………………………………………ƒ‚……………………………………………………………………ƒ„
+„  „ ÁÈÝÇÐ£ÁÜàÊ¥¼Ù¿¼ä           Ç¿Ê.  „                                                  „
+„  ‚……………………………………………………………………………ƒ                                                  „
+„                                                                                   „
+„                            Ò¹ÁÑ¡Á¿¦Ý²¼Ù¿¼äÐÊ¡ÇÎÁ¾ÎÆÎÔµÀ/ÊÝ¥¡ÂÆ                        „
+„                                                                                   „
+‚……………………………………………………………………………………………………………………………………………………………………………………………………………………………ƒ
+                        ÁØ¹µÚà  34  ÑÇ²¥¦Ê¾Î¼Ó·ÇàÄ·¢Ê¥¡ÎÁÐÃÜÊ¡Ð£ÁÜàÊ¥¼Ù¿¼ä
+
+
+          Ð¹ß·¡ÎÁÓÈáÐÃÜÊ¡¨·Ù²¢Ê¥Ð£ÁÜàÊ¥¼Ù¿¼ä  ¢·Î²  ¦Ï·Ä·³ÝÄÊÝ¡ÆÁ³àÊ  1 ¸ÁÁµÝ² ÑÃÌÁÈÝÇ¾ÎÆÎÔµÀ
+          ¢Ê¥Ð£ÁÜàÊ¥¼Ù¿¼äµÚàÓ¨á
+          ¡ÎÁÐÃÜÊ¡¨·Ù²¢Ê¥Ð£ÁÜàÊ¥¼Ù¿¼ä  ¢·Î²  ÑÃÌÁÈÝÇÐ£ÁÜàÊ¥¼Ù¿¼ä  µÏÔ²áÒ²À¡ÎÁÐÃÜàÊ·Ñ´¸ÇÄàÎ¥Ô¹ ± 
+          ¢áÊ£ÄÎ¿ÑÃáÄ¡²  ENTER  £àÎ¹ÁÌ¦Ï¢áÊ£ÄÎ¿·Ýá·¦ÌÐ¹ÃÚàÀ·Ñ¹Ã¥Ô¹  ÇàÄ·¡ÎÁÐÃÜÊ¡Ð¹ÃÚàÀ·Ð¹ß·£àÎ
+          ÊÌÔÁ    ÓÈáºØáÓ¨áµÏ¡ÎÁÅÛ¡ÆÎ¦Î¡Ð£ÁÜàÊ¥¼Ù¿¼äµÚàºØáÓ¨áÓ¨áÊÀØà   Ð¿ÜàÊÐÃÜÊ¡Ô²á³Î¿³áÊ¥¡ÎÁÑÃáÄ   ¡²  
+          <ESC> Ð¼ÜàÊ¡ÃÝ¸Ô¹Ð¿·ØÈÃÝ¡
+
+
+
+
+     2.  ÐÃÜàÊ·Ñ´¸ÇÄàÎ¥¿ÎÀÝ¥
+
+                    €…………………………………………………………………………
+                    „ ÁÈÝÇ¢áÊ¿ØÃ¾ÎÆÎÔµÀ       Ç¿Ê.  „
+                    ‚…………………………………………………………………………ƒ
+
+          ¡²   ENTER   ¡ÎÁÐÃÜÊ¡ÁÈÝÇ¢áÊ¿ØÃ¾ÎÆÎÔµÀ  ¦Ì³áÊ¥ÇÝ¿¼Ý·¶ä¡Ý¸ÁÈÝÇ¢áÊ¿ØÃ¾ÎÆÎÔµÀ¢Ê¥Ñ½á¿¢áÊ¿ØÃ 
+          Ð¿ÜàÊ¡² ENTER ÁÈÝÇµÚà¹ÁÎ¡­ÊÀØàÐ²Ù¿¦Ì´Ø¡Ð¹ÃÚàÀ·Ô¹ Ð¿ÜàÊÐÃÜÊ¡ÁÈÝÇÔ²á³Î¿µÚà³áÊ¥¡ÎÁÑÃáÄ ¡² <ESC>
+
+     3.  ÐÃÜàÊ·Ñ´¸ÇÄàÎ¥Ô¹µÚà¢áÊ£ÄÎ¿
+
+               €………………………………………………………………………………
+               „  ÒÈ¿²¼Ù¿¼ä (Mode & Precision)  „
+               ‚………………………………………………………………………………ƒ
+
+          ¡²  ENTER  ¦ÌÔ²áÈ·áÎ³àÎ¥¢áÊ£ÄÎ¿ ²Ý¥ÁØ¹µÚà 35 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+€……………………………………………………………………………………………………………………………………………………………………………………………………………………………
+„   ¦×ÉÎÃ¥¡Á±ä¿ÈÎÄÙµÀÎÃÝÀ                               Ñ½á¿¢áÊ¿ØÃ :  MAIL1                „
+†……………………………………………………………………………………………………………………………………………………………………………………………………………………………‡
+„                                CU-PRINT                                   „
+„                                   Version 1.4                                     „
+„€………………………………………………………………………€………………………………………………………………€……………………………………………………………………„
+„„ÓÇà¨ÜàÊÑ½á¿¢áÊ¿ØÃµÚà³áÊ¥¡ÎÁ¼Ù¿¼ä      „„¦Ï·Ä·¸ÁÁµÝ²³àÊÈ·áÎ       26„„ÈÝÄ¡ÁÌ²ÎÆ (Header)         „„
+„„ÐÁÙà¿¼Ù¿¼äÑ½á¿¢áÊ¿ØÃ              „„¢·Î²³ÝÄÊÝ¡ÆÁ (³ÝÄ³àÊ·ÙáÄ)   10„„µáÎÀ¡ÁÌ²ÎÆ (Footer)        „„
+„„Ð¹ÃÚàÀ·¨àÊ¥Ð¡ß¸(Disk Drive)  A „„¢Ê¸©áÎÀ (Left Margin)   1„„È·áÎ¡ÁÌ²ÎÆ (PageTitle)     „„
+„„Ð¹ÃÚàÀ·ÁÎ¡(Directory)        „„¢Ê¸¢ÄÎ (Right Margin) 80„„³ÏÑÈ·à¥ÈÝÄ¢áÊÐÁÜàÊ¥ (Title)    „„
+„„Ô¹ÁÌ¸¸¹­Ù¸Ý³Ù¡ÎÁ¨ÝàÄ£ÁÎÄ        „„ÐÁÙà¿¼Ù¿¼äµÚàÈ·áÎ             1„„Ð¡ß¸£àÎ³ÝÄÑ¹Á (Parameters)   „„
+„„Ð£ÁÜàÊ¥¼Ù¿¼ä (Printer Options) „„ÈÀ×²¼Ù¿¼äµÚàÈ·áÎ          9999„„ÊàÎ·£àÎ³ÝÄÑ¹Á (Parameters)   „„
+„„ÁÈÝÇ¢áÊ¿ØÃ¾ÎÆÎÔµÀ        Ð¡Æ³Á„„È¿ÎÀÐÃ¢È·áÎÐÁÙà¿³á·        1„„ÒÈ¿²¼Ù¿¼ä (Mode & Precision)„„
+„„ÐÃÙ¡¡ÎÁµÏ¥Î·           ALT-X„„¦Ï·Ä·¨×²µÚà¼Ù¿¼ä (COPY)   €……ˆˆ………………………………………………………À×²  „„
+„‚………………………………………………………………………ƒ‚………………………………………………………‡ Print Mode       GRAPHIC†…………ƒ„
+„                                                   „ Precision            NLQ„     „
+„                                                   ‚…………………………………………………………………ƒ     „
+„                                                                                   „
+„                           Ò¹ÁÑ¡Á¿¦Ý²¼Ù¿¼äÐÊ¡ÇÎÁ¾ÎÆÎÔµÀ/ÊÝ¥¡ÂÆ                         „
+‚……………………………………………………………………………………………………………………………………………………………………………………………………………………………ƒ……            
+      
+                            ÁØ¹µÚà  35  ÁØ¹Ñ¸¸¡ÎÁÐÃÜÊ¡ÒÈ¿²¡ÎÁ¼Ù¿¼ä
+
+          ¡ÎÁÐÃÜÊ¡  µÏÔ²áÐ¨à·Ð²ÚÀÄ¡Ý¸¡ÎÁÐÃÜÊ¡Ð£ÁÜàÊ¥¼Ù¿¼ä  £ÜÊ ÐÃÜàÊ·Ñ´¸ÇÄàÎ¥Ô¹ ± ¢áÊµÚà³áÊ¥¡ÎÁ ¡² 
+          ENTER Ð¼ÜàÊµÏ¡ÎÁÐ¹ÃÚàÀ·£àÎ Ð¿ÜàÊÐÃÜÊ¡£àÎµÚà³áÊ¥¡ÎÁÔ²áÑÃáÄ ¡² <ESC>
+
+     4.  ÐÃÜàÊ·Ñ´¸ÇÄàÎ¥¿ÎÑ´Ä¡ÃÎ¥ Ð¼ÜàÊ
+          1.  ¡ÏÈ·²¦Ï·Ä·¸ÁÁµÝ²³àÊÈ·áÎµÚà¦Ì¼Ù¿¼ä
+          2.  ¡ÏÈ·²¢·Î²¢Ê¥³ÝÄÊÝ¡ÆÁµÚàÓ¨á¦Ì¼Ù¿¼ä
+          3.  ¡ÎÁ¦Ý²ÁÌÀÌ¡Ýá·¢Ê¸©áÎÀÑÃÌ¢ÄÎ
+          ¡ÎÁ¡ÏÈ·²¦Ï·Ä·¸ÁÁµÝ²³àÊÈ·áÎ   ¢·Î²¢Ê¥³ÝÄÊÝ¡ÆÁ  ÑÃÌ¡ÎÁ¦Ý²ÁÌÀÌ¡Ýá·¢Ê¸©áÎÀÑÃÌ¢ÄÎ·Úá
+          Ð¿ÜàÊ¡²   ENTER  ¦Ì¿Ú¢áÊ£ÄÎ¿³àÎ¥ Õ ¹ÁÎ¡­¢Ûá·¿ÎÓÈáÓÇà¦Ï·Ä·µÚà³áÊ¥¡ÎÁ Ð¿ÜàÊÓÇà£àÎµÚà³áÊ¥¡ÎÁ  
+          ÑÃáÄÓÈá¡² ENTER Ó·Ñ³àÃÌÇàÄ··Ýá· Õ
+ 
+     5.  ÐÃÜàÊ·Ñ´¸ÇÄàÎ¥¿ÎÀÝ¥¢áÊ£ÄÎ¿
+
+                    €……………………………………………………………………………
+                    „  ÐÁÙà¿¼Ù¿¼äÑ½á¿¢áÊ¿ØÃ              „
+                    ‚……………………………………………………………………………ƒ
+
+          ¡²    ENTER   Ð£ÁÜàÊ¥¼Ù¿¼ä¦ÌÐÁÙà¿³á·µÏ¡ÎÁ¼Ù¿¼äÐÊ¡ÇÎÁ   Ò²ÀÓ·Ñ³àÃÌ¸ÁÁµÝ²¢Ê¥¢áÊ£ÄÎ¿µÚà
+          ´Ø¡¼Ù¿¼ä ¦Ì¹ÁÎ¡­ÓÈáÐÈß·¸ÁÙÐÄ±ÇàÄ·ÃàÎ¥¢Ê¥¦Ê¾Î¼£ÁÝá¥ÃÌ¸ÁÁµÝ²
+          Ð¿ÜàÊ¼Ù¿¼äÐÇÁß¦ÑÃáÄ ¦ÌÐÃÙ¡¡ÎÁÓ¨á CUPRINT  ÑÃÌ¡ÃÝ¸Ô¹µÚà  CUWRITER  ²áÄÀ¡ÎÁ¡²  ALT  X
+
+È¿ÎÀÐÈ³×  :   CUPRINT   ·Úá  ÇÎ¿ÎÁ´´Ø¡ÐÁÚÀ¡Ó¨áÒ²ÀÊÙÇÁÌ  Ô¿à³áÊ¥ºàÎ·¡ÎÁÓ¨á¥Î· CUWRITER ¿Î¡àÊ·
+             Ô²á Ò²À¡ÎÁÐÁÚÀ¡£ÏÇÝà¥ CUPRINT  ÑÃÌÒ²ÀÐ§¼ÎÌÐ£ÁÜàÊ¥£Ê¿¼ÙÄÐ³ÊÁäµÚà¿ÚÈ·àÄÀ£ÄÎ¿¦Ï·áÊÀ
+             ¡ÄàÎ 640 KB
