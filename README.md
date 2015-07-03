@@ -3,13 +3,13 @@ CU Writer 1.41 Source Code
 
 Descriptions
 ------------
-[CU Writer](http://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C) is a Thai WordStar clone that run on [DOS](https://en.wikipedia.org/wiki/DOS).
+[CU Writer](http://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%B9%E0%B9%84%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C) is a Thai [WordStar](https://en.wikipedia.org/wiki/WordStar) clone that run on [DOS](https://en.wikipedia.org/wiki/DOS).
 Develop by Computer Service Centre and Faculty of Engineering, Chulalongkorn University.
 First public release in april 1989 in [public domain](http://unlicense.org/),
 through BBTV Channel 7.
 
 This is the same original source code that found on [a ftp server](ftp://ftp.cs.washington.edu/pub/thaisys/software/dos/cu-writer/),
-in files
+in this files
 
     cusrc-1.zip 	41 KB 	12/5/2536 	0:00:00
     cusrc-2.zip 	37 KB 	12/5/2536 	0:00:00
@@ -17,8 +17,9 @@ in files
     cusrc-4.zip 	91 KB 	12/5/2536 	0:00:00
 
 no modification in the source code, except change a function name
-in \COMMON\CSCR.C from line to _line to make it not conflict with BGI
-when linking CUFONT, some edit in MAKEFILE and TURBOC.CFG.
+in \COMMON\CSCR.C from line to _line to make it not conflict with
+Borland Graphics Interface (BGI) when linking CUFONT,
+some edit in MAKEFILE and TURBOC.CFG.
 
 I also add the original document which included in CU Writer 1.41 release,
 TIS-620 converted document and binary font files to the repo.
@@ -43,18 +44,7 @@ Compiling the source code
    - Borland Turbo C 2.01
    - Borland Turbo Assembler 2.0 or newer
    
-2. Setup a directory like this
-
-    C:\
-    |
-    |---CW         => Binary will go here
-    |    |
-    |    \---Src   => Source directory
-    |
-    |---TASM       => Turbo Assembler directory
-    |
-    \---TC         => Turbo C 2.01 directory
-
+2. Put this reposity content into C:\CW
 3. Set PATH to Turbo C and Turbo Assembler
 4. Change directory to C:\CW\SRC
 5. Run MAKE.BAT
