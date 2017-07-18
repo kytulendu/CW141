@@ -70,6 +70,8 @@ From CU-Writer 1.2 manual and CU-Writer 1.41 source code.
 * ประสาท โตปิตุมาตุคุณ
 (Prasart Topitumatukhun)
 * ลักษณ์ชัย ลือชัยชนะกุล
+* วิชัย ปฏิภาภรณ์
+(Wichai Patipaporn)
 * วิทยา วงศ์อนวัช
 (Wittaya Wonganawat)
 * สุทธิพงษ์ คนาคกร
@@ -79,4 +81,4 @@ From CU-Writer 1.2 manual and CU-Writer 1.41 source code.
 * สุวพจน์ จันทโรจนวงศ์
 
 If you know any one who is in CU-Writer project that isn't in this list,
-please in inform me. ;)
+please in inform me. :)
