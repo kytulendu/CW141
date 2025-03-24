@@ -24,7 +24,7 @@ Borland Graphics Interface (BGI) when linking CUFONT,
 some edit in MAKEFILE and TURBOC.CFG.
 
 I also add the original document that included in CU Writer 1.41 release,
-TIS-620 converted document and binary font files to the repo.
+TIS-620 converted document, binary font files and [Command Quick Reference](QREF.md) to the repo.
 
 The source code use Thai Industrial Standard 620-2533 (TIS-620)
 for character encoding.
